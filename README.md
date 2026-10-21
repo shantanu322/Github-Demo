@@ -1,3 +1,3 @@
 # Github-Demo
-Practice How to use Github.
-
+Practice how to use GitHub.
+Author - Shantanu Shelake.
